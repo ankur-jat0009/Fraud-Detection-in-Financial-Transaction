@@ -9,6 +9,7 @@ The main goal was to build machine learning models that can identify fraudulent 
 ---
 
 ## Dataset Information  
+- Source: [Kaggle – PaySim Synthetic Financial Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1/data)  
 - Rows: ~6.3 Million  
 - Columns: 11  
 
